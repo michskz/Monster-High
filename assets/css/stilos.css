@@ -1,0 +1,42 @@
+body{
+    width: 40%;
+    margin: 0;
+    background-image: url(/assets/77a26514e63d18cc42d3d009a3868d51.jpg);
+    color: rgb(216, 8, 129);
+    text-align: center;
+    position: relative;
+}
+
+
+h1{
+    display: flex;
+    width:100% ;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    display: flex;
+    width:100% ;
+    align-items: center;
+    justify-content: center;
+}
+
+#tarjeta{
+    border: 10px solid;
+    background-color: rgb(200, 157, 230);
+    padding: 5%;
+    color: black;
+    text-align: center;
+    position: relative;
+    }
+
+#tarjeta2 {
+    border: 10px solid;
+    background-color: rgb(200, 157, 230);
+    padding: 5%;
+    color: black;
+    text-align: center;
+}
+img{
+    width: 90%;
+}
